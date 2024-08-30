@@ -1,3 +1,5 @@
+# Coursera Algorithms Study Materials
+
 ## 1 Introduction
 
 In this repository, I've packed all the materials in the Algorithms course.
