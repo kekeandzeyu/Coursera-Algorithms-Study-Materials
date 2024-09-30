@@ -4,7 +4,7 @@
 
 In this repository, I've packed all the materials in the Algorithms course on Coursera by Professor Robert Sedgewick and Kevin Wayne.
 
-Want to know more about my notes taken during studying CS61A? Please visit the [link](https://csstudy.pages.dev/) and click on Data Structures and Algorithms topic for more!
+Want to know more about my notes taken during studying Algorithms course? Please visit the [link](https://csstudy.pages.dev/) and click on Data Structures and Algorithms topic for more!
 
 ## 2 License
 
